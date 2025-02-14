@@ -12,6 +12,7 @@ The app Routine Keeper tracks what its users do and where they do it in their ho
 
 Before you leave the house or apartment, you naturally close the window, turn off the stove, or the iron. But can you remember it afterwards?
 Because such actions happen automatically, as routines, they often don't make it into our conscious awareness, and we don't remember them. If you search the internet for this issue, you'll find that some people develop a new routine to make other routines more conscious: "Alles null, null – da kann ich gehen, ohne nochmal nachzusehen" (a German rhyme, roughly speaking: "All zero, zero – I'm free to go. No need to look back, I already know.").
+
 In severe cases, this uncertainty can even turn into a obsessive-compulsive disorder that makes it difficult to cope with everyday life: those affected check things umpteen times, yet still feel unsure and return to check again.
 
 
