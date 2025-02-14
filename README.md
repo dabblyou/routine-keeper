@@ -4,8 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+The app Routine Keeper tracks what its users do and where they do it in their house/apartment, so it can later tell them what they did and where, even if they can't remember it themselves.
 
 ## Background
 
