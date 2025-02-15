@@ -39,7 +39,7 @@ In order for *Routine Keeper* to function, various data sources are used:
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+As an extension, the app can, through its audio tracking, recognize and learn specific sounds or sound patterns (for example, if something falls and possibly rolls away). If the user does not respond to it (by stopping, bending down, etc.), *Routine Keeper* can either notify them immediately or store the occurrence and report it upon request.
 
 
 ## Acknowledgments
