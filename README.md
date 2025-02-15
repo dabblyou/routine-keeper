@@ -24,7 +24,7 @@ Describe the process of using the solution. In what kind situations is the solut
 
 
 ## Data sources and AI methods
-In order for the app to function, various data sources are used:
+In order for *Routine Keeper* to function, various data sources are used:
 
 1. Spatial base data from the user's environment (= apartment, house). Since GPS data can only be used in exceptional cases, other indoor navigation methods must be employed for mapping (e.g., Wi-Fi, Bluetooth, geomagnetism, or other innovative approaches).
 
@@ -34,7 +34,7 @@ In order for the app to function, various data sources are used:
 
 ## Challenges
 
-The app can calculate probabilities, but it cannot make a 100% reliable statement. For users with a obsessive-compulsive disorder, it can at best provide support, but it can in no way replace treatment. To protect privacy, intimate spaces may be excluded from tracking by the app.
+*Routine Keeper* can calculate probabilities, but it cannot make a 100% reliable statement. For users with a obsessive-compulsive disorder, it can at best provide support, but it can in no way replace treatment. To protect privacy, intimate spaces may be excluded from tracking by the app.
 
 
 ## What next?
