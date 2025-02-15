@@ -48,14 +48,13 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+In order for the app to function, various data sources are used:
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+1. Spatial base data from the user's environment (= apartment, house). Since GPS data can only be used in exceptional cases, other indoor navigation methods must be employed for mapping (e.g., Wi-Fi, Bluetooth, geomagnetism, or other innovative approaches).
+
+2. Movement data of the user within their spaces. If the app is also provided with data from a smartwatch, more complex movements can be detected through its motion sensors (for example, raising the arm/hand with a specific rotational movement = turning a window handle).
+
+3. Audio data resulting from the user's actions (e.g., pressing a switch, the typical sound of a rotary knob on an iron, the closing of a window or door, etc.). In the case of the window example, sound patterns may also be of interest: If a window is open and external noises come through, the pattern could show a gradual increase and decrease in the volume of outside noise (= walking past the window) or a sudden cut in the sound stream (= the window was closed).
 
 ## Challenges
 
