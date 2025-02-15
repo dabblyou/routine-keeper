@@ -19,8 +19,7 @@ In severe cases, this uncertainty can even turn into a obsessive-compulsive diso
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
+When *Routine Keeper* is activated, it records audio and movement data and relates them to the stored environment. This allows the app to recognize whether certain tasks have been completed. If the user leaves the apartment/house, the app can inform them, upon request, whether all devices have been turned off and if the windows/doors are closed, and it can provide this information while they are on the go. In this way, *Routine Keeper* can contribute to a greater sense of security for those who often perform tasks unconsciously or prefer to double-check that everything is in order.
 
 
 ## Data sources and AI methods
@@ -49,7 +48,7 @@ For informational purposes:
 https://www.frag-mutti.de/habe-ich-den-herd-ausgeschaltet-gedankenstuetze-a31351/
 https://www.enableme.de/de/artikel/kontrollzwang-10735
 https://www.aktiv-online.de/news/navi-fuer-gebaeude-so-funktionieren-die-neuen-systeme-der-indoor-navigation-17133
-https://www.fokus.fraunhofer.de/go/indoor-navigation]
+https://www.fokus.fraunhofer.de/go/indoor-navigation
 https://www.nolimits.land/das-praeziseste-digitale-indoor-navigationssystem-ist-auch-noch-kostenguenstig/
 
 Translation rhyme:
