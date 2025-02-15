@@ -67,9 +67,13 @@ How could your project grow and become something even more? What kind of skills,
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
-view raw
+For informational purposes:
+
+https://www.frag-mutti.de/habe-ich-den-herd-ausgeschaltet-gedankenstuetze-a31351/
+https://www.enableme.de/de/artikel/kontrollzwang-10735
+https://www.aktiv-online.de/news/navi-fuer-gebaeude-so-funktionieren-die-neuen-systeme-der-indoor-navigation-17133
+https://www.fokus.fraunhofer.de/go/indoor-navigation]
+https://www.nolimits.land/das-praeziseste-digitale-indoor-navigationssystem-ist-auch-noch-kostenguenstig/
+
+Translation rhyme:
+ChatGPT
