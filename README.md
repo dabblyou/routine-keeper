@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The app Routine Keeper tracks what its users do and where they do it in their house/apartment, so it can later tell them what they did and where, even if they can't remember it themselves.
+The app *Routine Keeper* tracks what its users do and where they do it in their house/apartment, so it can later tell them what they did and where, even if they can't remember it themselves.
 
 
 ## Background
