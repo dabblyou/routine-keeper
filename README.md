@@ -34,7 +34,8 @@ In order for the app to function, various data sources are used:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The app can calculate probabilities, but it cannot make a 100% reliable statement. For users with a obsessive-compulsive disorder, it can at best provide support, but it can in no way replace treatment. To protect privacy, intimate spaces may be excluded from tracking by the app.
+
 
 ## What next?
 
