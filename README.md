@@ -14,7 +14,7 @@ Before you leave the house or apartment, you naturally close the window, turn of
 
 Because such actions often happen automatically, as routines, they tend to don't make it into our conscious awareness, and it happens that we don't remember them. If one searches the internet for this issue, they'll find e.g. that some people develop a new routine to make other routines more conscious: "Alles null, null – da kann ich gehen, ohne nochmal nachzusehen" (a German rhyme, roughly speaking: "All zero, zero – I'm free to go. No need to look back, I already know.").
 
-In severe cases, this uncertainty can even turn into a obsessive-compulsive disorder that makes it difficult to cope with everyday life: those affected check things umpteen times, yet still feel unsure and return to check again.
+In severe cases, this uncertainty can even turn into an obsessive-compulsive disorder that makes it difficult to cope with everyday life: those affected check things umpteen times, yet still feel unsure and return to check again.
 
 
 ## How is it used?
