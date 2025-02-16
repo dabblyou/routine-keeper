@@ -33,7 +33,7 @@ In order for *Routine Keeper* to function, various data sources are used:
 
 ## Challenges
 
-*Routine Keeper* can calculate probabilities, but it cannot make a 100% reliable statement. For users with a obsessive-compulsive disorder, it can at best provide support, but it can in no way replace treatment. To protect privacy, intimate spaces may be excluded from tracking by the app.
+*Routine Keeper* can calculate probabilities, but it cannot make a 100% reliable statement. For users with an obsessive-compulsive disorder, it can at best provide support, but it can in no way replace treatment. To protect privacy, intimate spaces may be excluded from tracking by the app.
 
 
 ## What next?
